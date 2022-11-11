@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Tool Version') {
       steps {
-        sh '''java --version
+        sh '''java -version
 
 
 
