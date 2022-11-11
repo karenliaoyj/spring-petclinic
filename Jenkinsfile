@@ -27,7 +27,7 @@ pipeline {
 
 
 
-\\ mvn --version \\ git --version'''
+ \\ git --version'''
       }
     }
 
