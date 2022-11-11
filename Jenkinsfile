@@ -4,30 +4,7 @@ pipeline {
     stage('Tool Version') {
       steps {
         sh '''java -version
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- \\ git --version'''
+'''
       }
     }
 
